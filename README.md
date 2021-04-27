@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>Python, html, css, JavaScript, Bootstrap and Django.</strong>
+  🦄 Habilidades: <strong>Python, html, css, JavaScript, Bootstrap, SQL,  SQLite3, and Django.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, PyCharm, Docker, Xampp, Git and GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, PyCharm, Docker, Xampp, MySQL WorkBench, PUTTY, Git and GitHub.</strong>
 </p>
  
 </p>
