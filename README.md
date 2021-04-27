@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>Python, html, css, JavaScript, Bootstrap, SQL,  SQLite3, and Django.</strong>
+  🦄 Habilidades: <strong>Python, Html, Css, JavaScript, Bootstrap, SQL,  SQLite3, and Django.</strong>
 </p>
 
 <p align="left">
